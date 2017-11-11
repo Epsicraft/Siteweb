@@ -7,26 +7,26 @@ Cahier des charges
   *section de login
   
   *section News
- 
- *Carrousel d'image du serveur
+  
+  *Carrousel d'image du serveur
 
 * Page de membres
   
--acces au statistiques: 
+  -acces au statistiques: 
 
--- temps de jeu
+    -- temps de jeu
                          
--- Achivements
+    -- Achivements
                          
--- Skin du joueurs
+    -- Skin du joueurs
                           
--- date d'inscription
+    -- date d'inscription
                           
--- les sous Ingame
+    -- les sous Ingame
                           
--- La participation au serveur (combien de joueur à donner au serveur)
+    -- La participation au serveur (combien de joueur à donner au serveur)
                           
--- Le rangs du joueurs
+    -- Le rangs du joueurs
 
 - page d'administration
   
@@ -48,7 +48,10 @@ Cahier des charges
   
   *Les tickets peuvent êtres lu par tout les personnes ayant les droits pour et seulement eux
   
-  - Page de wiki
+- Page de wiki
+  
   *Pages regroupant le maximum d'informations et d'aides sur les différents mods du serveurs
+  
   *Page de FAQ
+  
   *Page des règles du serveur
